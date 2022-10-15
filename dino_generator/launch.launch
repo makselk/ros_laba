@@ -1,0 +1,3 @@
+<launch>
+<node pkg="dino_generator" type="dino_generator_node" name="dino_gen1" output="screen"/>
+</launch>

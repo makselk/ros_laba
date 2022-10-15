@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>dino_generator</name>
+  <version>0.0.0</version>
+  <description>The dino_generator package</description>
+  <maintainer email="boiii@todo.todo">boiii</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>dino_service</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_export_depend>dino_service</build_export_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <exec_depend>dino_service</exec_depend>
+  <exec_depend>roscpp</exec_depend>
+
+  <export>
+  </export>
+</package>
