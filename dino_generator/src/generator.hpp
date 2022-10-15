@@ -3,7 +3,8 @@
 #include "dino_service/dino_service_file.h"
 
 
-class DinoGenerator {
+class DinoGenerator 
+{
 public:
     explicit DinoGenerator();
 public:
